@@ -5,12 +5,12 @@ This tool can do it itself.
 
 # Prerequisites
 You have Python installed in your SYSTEM.
-<img src="domania.JPG">
+<img src="domania.jpg">
 
 # Installation 
 
 ```
-git clone 
+git clone https://github.com/thesourabhk/DomainEnumerator.git
 ```
 ```
 cd Domania
