@@ -13,7 +13,7 @@ You have Python installed in your SYSTEM.
 git clone https://github.com/thesourabhk/DomainEnumerator.git
 ```
 ```
-cd Domania
+cd DomainEnumerator
 ```
 
 # Usage 
